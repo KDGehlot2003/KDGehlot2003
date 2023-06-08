@@ -1,6 +1,7 @@
 ### Hi there, I'm Kshitij Gehlot👋
 
 ![](https://komarev.com/ghpvc/?username=KDGehlot2003)
+![](https://komarev.com/ghpvc/?username=KDGehlot2003&label=PROFILE+VIEWS)
 
 **KDGehlot2003/KDGehlot2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
