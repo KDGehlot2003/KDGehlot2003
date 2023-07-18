@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdgehlot2003&theme=highcontrast" alt="kdgehlot2003" /></p>
 
-[![KDGehlot2003's GitHub | Stats](https://stats.quine.sh/KDGehlot2003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KDGehlot2003)
+<!-- [![KDGehlot2003's GitHub | Stats](https://stats.quine.sh/KDGehlot2003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KDGehlot2003) -->
 
 ---
 
