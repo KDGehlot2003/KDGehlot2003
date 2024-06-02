@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kshitij Gehlot</h1>
 <!-- <h3 align="center">A passionate Programmer from India</h3> -->
-<p align="center">I am fascinated by how computer technology 🌐 has changed our lives in unexpected ways. Seeing the growth of computer science made me want to study software engineering from a young age, and my enthusiasm has only grown since then. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<!-- <p align="center">I am fascinated by how computer technology 🌐 has changed our lives in unexpected ways. Seeing the growth of computer science made me want to study software engineering from a young age, and my enthusiasm has only grown since then. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> -->
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=KDGehlot2003&label=Profile%20views&color=0e75b6&style=flat" alt="Kshitij Gehlot" /> 
