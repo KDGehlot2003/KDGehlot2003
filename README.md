@@ -64,7 +64,8 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,flask,fastapi,bash" />
+<!--   <img src="https://skillicons.dev/icons?i=py,nodejs,express,flask,fastapi,bash" /> -->
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,bash" />
   </a>
 </p>
 
