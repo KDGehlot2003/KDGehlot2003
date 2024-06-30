@@ -61,6 +61,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,md" />
+  </a>
+</p>
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -69,12 +76,6 @@
   </a>
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,md" />
-  </a>
-</p>
 
 - Database
 <p align="left">
