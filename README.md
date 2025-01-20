@@ -87,7 +87,8 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws" />
+<!--     <img src="https://skillicons.dev/icons?i=azure,aws" /> -->
+    <img src="https://skillicons.dev/icons?i=azure,vercel,netlify" />
   </a>
 </p>
 
