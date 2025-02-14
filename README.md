@@ -43,7 +43,7 @@
 
 <!-- - 📄 Know about my experiences [my experiences](http://) -->
 
-- ⚡ Fun fact **I think I'm funny**
+<!-- - ⚡ Fun fact **I think I'm funny** -->
 
 <br>
 <h3 align="left">Social:</h3>
