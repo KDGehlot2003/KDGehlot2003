@@ -57,9 +57,9 @@
 
 <h3 align="left">• Generative AI</h3>
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1ccb3077-de08-48f2-b7f1-f93f66581c1e" alt="LangChain" width="50" height=50"></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/user-attachments/assets/849f04e1-b73b-4fd4-a3e7-956d1d2d21c0" alt="Hugging Face" width="50" height="50"></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5e6b4a55-ab9e-4c15-8a29-c56b97695bd7" alt="OpenAI" width="50" height="50"></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1ccb3077-de08-48f2-b7f1-f93f66581c1e" alt="LangChain" width="50" height=50"></a>&nbsp;
+  <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/user-attachments/assets/849f04e1-b73b-4fd4-a3e7-956d1d2d21c0" alt="Hugging Face" width="50" height="50"></a>&nbsp;
+  <a href="https://openai.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5e6b4a55-ab9e-4c15-8a29-c56b97695bd7" alt="OpenAI" width="50" height="50"></a>&nbsp;
   <a href="https://ollama.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6229012d-10c1-45ac-81d5-f491a47e34a4" alt="Ollama" width="50" height="50"></a>
 </p>
 
