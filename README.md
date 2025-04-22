@@ -31,19 +31,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-<!-- - 🔭 I’m currently working on **UA IT(JKH IT)** -->
+- 🔭 I’m currently working as an **Associate Product Engineer Intern at DeltaX**
+- 🌱 I’m currently diving deeper into **LangChain**, **GenAI**, **RAG**, and **DevOps**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack**
+- 📫 Reach me at **kdgehlot2003@gmail.com**
+- ⚡ Fun fact: **I’m probably debugging in my dreams too**
 
-- 🌱 I’m currently learning **MERN**
-
-<!-- - 👨‍💻 All of my projects are available at [kdgehlot's workspace](http://) -->
-
-- 💬 Ask me about **Python, Machine Learning, NodeJS**
-
-- 📫 How to reach me **kdgehlot2003@gmail.com**
-
-<!-- - 📄 Know about my experiences [my experiences](http://) -->
-
-<!-- - ⚡ Fun fact **I think I'm funny** -->
+> *“I automate boring stuff, one script at a time 🛠️”*
 
 <br>
 <h3 align="left">Social:</h3>
@@ -71,8 +65,8 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-<!--   <img src="https://skillicons.dev/icons?i=py,nodejs,express,flask,fastapi,bash" /> -->
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,bash" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,fastapi,bash,supabase" />
+<!--   <img src="https://skillicons.dev/icons?i=py,nodejs,express,bash" /> -->
   </a>
 </p>
 
@@ -88,7 +82,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=azure,aws" /> -->
-    <img src="https://skillicons.dev/icons?i=azure,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify" />
   </a>
 </p>
 
